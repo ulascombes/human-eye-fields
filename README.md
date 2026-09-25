@@ -1,2 +1,2 @@
 # webgl_RetinoMaps
-visit : https://ulascombes.github.io/human-eye-fields/
+visit : https://ulascombes.github.io/human-eye-fiels/
